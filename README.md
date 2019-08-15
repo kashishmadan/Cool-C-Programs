@@ -1,6 +1,10 @@
 # Cool-C-Programs
 Collection of some cool C programs 
 
+
+***Program 1:***
+*A C program to print Hello World without using semi colon.*
+
 ***Program 2:***
 *A C program to find whether a user entered number is a perfect number or not.*
 
