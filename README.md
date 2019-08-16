@@ -1,5 +1,6 @@
 # Cool-C-Programs
-Collection of some cool C programs 
+
+###### Collection of some cool C programs 
 
 
 ***Program 1:***
