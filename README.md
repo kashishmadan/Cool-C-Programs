@@ -21,3 +21,9 @@ A perfect number is defined to be one which is equal to the sum of all its divis
 
 ***Program 5:***
 *A C program to print a Mirrored hollow right-angled triangle.* <img src='Screenshots/Pattern%203.jpg' width="200" height="150">
+
+***Program 6:***
+*A C program to find the size of a file in Linus or Windows.
+
+***Program 7:***
+*A C program to guess a random number.
