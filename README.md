@@ -27,3 +27,6 @@ A perfect number is defined to be one which is equal to the sum of all its divis
 
 ***Program 7:***
 *A C program to guess a random number.*
+
+***Program 8:***
+*You are given a sorted (either in ascending or descending order) sequence of numbers ending with -1. Output the number of distinct elements in the sorted sequence without using arrays.* 
